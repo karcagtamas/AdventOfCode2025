@@ -1,6 +1,4 @@
 import kotlin.math.absoluteValue
-import kotlin.math.pow
-import kotlin.math.sqrt
 
 fun main() {
 
